@@ -1,0 +1,6 @@
+data/
+*.db
+*.csv.gz
+outputs/holdout_2015_scored.csv
+.ipynb_checkpoints/
+__pycache__/
