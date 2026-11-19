@@ -4,7 +4,7 @@
 
 An end-to-end analysis of 1.3M LendingClub loans (SQL, Python, Power BI). I built a default-risk model, tested whether it earns more than grade-only underwriting on a held-out year, and checked how reliable its predictions and loss estimates are when loan conditions change.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cdac4d75-4ae2-4758-872f-ecc3e80596c8" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/69488d8d-98f8-4a47-89cc-ca87619ed4d4" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a725dd50-765f-4064-bf0e-98d54c9c0654" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5792960c-929b-4243-9a3c-042098a75de2" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/cdac4d75-4ae2-4758-872f-ecc3e80596c8" /> <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/69488d8d-98f8-4a47-89cc-ca87619ed4d4" /> <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/a725dd50-765f-4064-bf0e-98d54c9c0654" /> <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5792960c-929b-4243-9a3c-042098a75de2" />
 
 
 
@@ -108,8 +108,8 @@ Four Power BI pages:
 3. **Policy comparison:** ROI and profit at equal dollars lent.
 4. **Model reliability:** predicted vs actual defaults by year, loss reserve, AUC by year.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cdac4d75-4ae2-4758-872f-ecc3e80596c8" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5792960c-929b-4243-9a3c-042098a75de2" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/cdac4d75-4ae2-4758-872f-ecc3e80596c8" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5792960c-929b-4243-9a3c-042098a75de2" />
 
 ## Limitations
 
